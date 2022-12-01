@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: time used to sort sorted arrays was the least
+
+sort2 uses: merge sort
+
+How do you know?: time used to sort larger arrays was the least
+
+sort3 uses: selection sort
+
+How do you know?: process of elimination
